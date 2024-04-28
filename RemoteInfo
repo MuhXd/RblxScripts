@@ -1,4 +1,4 @@
-return RemoteInfo = {
+return RemoteInfo = { -- if you understand this then cool, (please credit me)
 Patched = false,
 Name = "RE_4.005853911142606e+76",
 args = {
